@@ -1,4 +1,4 @@
-# Diabetes-Prediction-Using-Machine-Learning-BRFSS-2015-
+# Diabetes-Prediction-Using-Machine-Learning-BRFSS-2015- in R
 This project builds and compares several machine learning models to predict diabetes using the BRFSS 2015 Health Indicators dataset.
 The goal is to evaluate how well different algorithms can classify individuals as diabetic or non-diabetic based on health, lifestyle, and demographic features.
 
